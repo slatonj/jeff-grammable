@@ -25,6 +25,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'jquery-rails'
 
+gem 'simple_form'
+
 
 
 # Use Redis adapter to run Action Cable in production
