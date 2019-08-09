@@ -27,6 +27,8 @@ gem 'jquery-rails'
 
 gem 'simple_form'
 
+gem 'devise'
+
 
 
 # Use Redis adapter to run Action Cable in production
