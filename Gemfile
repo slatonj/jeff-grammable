@@ -31,6 +31,8 @@ gem 'devise'
 
 
 
+
+
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
@@ -69,6 +71,7 @@ end
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.5'
+  gem "factory_bot_rails"
 end
 
 gem 'popper_js', '~> 1.14.3'
